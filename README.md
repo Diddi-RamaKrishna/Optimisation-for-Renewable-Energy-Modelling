@@ -1,6 +1,4 @@
-Here's a simplified version of the README content that should copy better into a GitHub README file:
-
-Energy Management and Optimization
+#Energy Management and Optimization
 This project focuses on managing and optimizing energy generation and storage using renewable resources such as wind and solar power. The project includes functions for energy management and optimization using a genetic algorithm, as well as decoding and interpreting the results.
 
 Table of Contents
