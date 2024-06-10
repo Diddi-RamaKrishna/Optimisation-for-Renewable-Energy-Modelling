@@ -1,8 +1,8 @@
-#Energy Management and Optimization
+# Energy Management and Optimization
 This project focuses on managing and optimizing energy generation and storage using renewable resources such as wind and solar power. The project includes functions for energy management and optimization using a genetic algorithm, as well as decoding and interpreting the results.
 
-Table of Contents
-Installation
+# Table of Contents
+*Installation*
 Usage
 Energy Management
 Optimization with Genetic Algorithm
